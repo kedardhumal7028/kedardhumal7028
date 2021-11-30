@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **College Project On C# .Net **
 
-- 🌱 I’m currently learning **HTML , CSS , JS ,**
+- 🌱 I’m currently learning **HTML , CSS , JS , Java**
 
 - 📝 I regularly write articles on [https://kedstechnology.blogspot.com/](https://kedstechnology.blogspot.com/)
 
