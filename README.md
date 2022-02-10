@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kedar Shivaji Dhumal</h1>
-<h2 align="center"> I'm a Programmer + Youtuber <a href="https://www.youtube.com/c/keds technology" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="keds technology" height="30" width="40" /></a>
-</h2>
+<h2 align="center"> I'm a Programmer + Youtuber <a href="https://www.youtube.com/c/keds technology" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="keds technology" height="30" width="40" /></a></h2
+><p align="left"> <img src="https://komarev.com/ghpvc/?username=kedardhumal7028&label=Profile%20views&color=0e75b6&style=flat" alt="kedardhumal7028" /> </p>
 <p>  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp    <b>"Keds Technology" Youtube channel is all about latest updates on "Shivaji university kolhapur" Circular, Announcements, Admissions, Examinations, Placements, Workshops, Semenars. And Learning programming languages, Career Guidance and Motivation. And All Technical / Technology releated videos. and We provide our content in Hindi and Marathi Language.</b> </p> 
 <h4 align="Left">1. "Shivaji University" Kolhapur All Updates.  &nbsp &nbsp 2.  Learn & Learning programming languages.</h4>
 <h4 align="Left">3.  Technology Releated All Videos. And. &nbsp &nbsp &nbsp &nbsp &nbsp  4.  Free Goverment Certificates Videos.</h4>
@@ -11,11 +11,11 @@
 <br>2) insagram = https://www.instagram.com/kedardhumal7028/
 <br>3) Gmail = kedstechnology@gmail.com
 <br>4) contact no or whatsapp no =7083218832
-<br>5) Telegram group =https://t.me/Keds_Technology</b>
+<br>5) Telegram group =https://t.me/Keds_Technology</b><br><br>
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kedardhumal7028&label=Profile%20views&color=0e75b6&style=flat" alt="kedardhumal7028" /> </p>
+
 
 - 🔭 I’m currently working on **College Project On C# .Net**
 
