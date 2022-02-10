@@ -3,9 +3,7 @@
 </h2>
 <p align="Left">   This channel is all about latest updates on "Shivaji university kolhapur" Circular, Announcements, Admissions, Examinations, Placements, Workshops, Semenars. And Learning programming languages, Career Guidance and Motivation. And All Technical / Technology releated videos. We provide our content in Hindi / Marathi.</p> 
 <p align="Left">1. "Shivaji University" Kolhapur All Updates.      2.  Learn & Learning programming languages.</p>
-<p align="Left">2.  Learn & Learning programming languages.</p>
-<p align="Left">3.  Technology Releated All Videos. And</p>
-<p align="Left">4.  Free Goverment Certificates Videos.</p>
+<p align="Left">3.  Technology Releated All Videos. And.   4.  Free Goverment Certificates Videos.</p>
 <p align="Left"> You can easily access our Educational Study Material from <a href="https://kedstechnology.blogspot.com" target="blank" /> </a> </p>
 
 
