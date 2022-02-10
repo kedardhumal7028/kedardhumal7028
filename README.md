@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kedar Shivaji Dhumal</h1>
-<h2 align="center" && colour="Red"> I Am A Youtuber</h2>
+<h2 align="center" colour="Red"> I Am A Youtuber</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kedardhumal7028&label=Profile%20views&color=0e75b6&style=flat" alt="kedardhumal7028" /> </p>
 
 - 🔭 I’m currently working on **College Project On C# .Net**
