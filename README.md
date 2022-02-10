@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm Kedar Shivaji Dhumal</h1>
 <h2 align="center"> I Am A Programmer + Youtuber <a href="https://www.youtube.com/c/keds technology" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="keds technology" height="30" width="40" /></a>
 </h2>
-
+<p align="Left"> This channel is all about latest updates on "Shivaji university kolhapur" Circular, Announcements, Admissions, Examinations, Placements, Workshops, Semenars. And Learning programming languages, Career Guidance and Motivation. And All Technical / Technology releated videos. We provide our content in Hindi / Marathi 
+1. "Shivaji University" Kolhapur All Updates.
+2.  Learn & Learning programming languages.
+3.  Technology Releated All Videos. And
+4.  Free Goverment Certificates Videos.
+You can easily access our Educational Study Material from <a href="https://kedstechnology.blogspot.com"</p>
 
 
 
