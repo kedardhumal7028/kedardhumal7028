@@ -2,7 +2,7 @@
 <h2 align="center"> I Am A Programmer + Youtuber <a href="https://www.youtube.com/c/keds technology" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="keds technology" height="30" width="40" /></a>
 </h2>
 <p align="Left">   This channel is all about latest updates on "Shivaji university kolhapur" Circular, Announcements, Admissions, Examinations, Placements, Workshops, Semenars. And Learning programming languages, Career Guidance and Motivation. And All Technical / Technology releated videos. We provide our content in Hindi / Marathi.</p> 
-<p align="Left">1. "Shivaji University" Kolhapur All Updates.</p> <p align="Left">2.  Learn & Learning programming languages.</p>
+<p align="Left">1. "Shivaji University" Kolhapur All Updates.      2.  Learn & Learning programming languages.</p>
 <p align="Left">2.  Learn & Learning programming languages.</p>
 <p align="Left">3.  Technology Releated All Videos. And</p>
 <p align="Left">4.  Free Goverment Certificates Videos.</p>
