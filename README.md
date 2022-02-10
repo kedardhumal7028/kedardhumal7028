@@ -6,7 +6,7 @@
 <p align="Left">2.  Learn & Learning programming languages.</p>
 <p align="Left">3.  Technology Releated All Videos. And</p>
 <p align="Left">4.  Free Goverment Certificates Videos.</p>
-<p align="Left"> You can easily access our Educational Study Material from <a href="https://kedstechnology.blogspot.com" target="blank" alt="keds technology" > </a> </p>
+<p align="Left"> You can easily access our Educational Study Material from <a href="https://kedstechnology.blogspot.com" target="blank" /> </a> </p>
 
 
 
