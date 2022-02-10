@@ -1,10 +1,17 @@
 <h1 align="center">Hi 👋, I'm Kedar Shivaji Dhumal</h1>
-<h2 align="center"> I Am A Programmer + Youtuber <a href="https://www.youtube.com/c/keds technology" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="keds technology" height="30" width="40" /></a>
+<h2 align="center"> I'm a Programmer + Youtuber <a href="https://www.youtube.com/c/keds technology" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="keds technology" height="30" width="40" /></a>
 </h2>
-<p align="Left">   This channel is all about latest updates on "Shivaji university kolhapur" Circular, Announcements, Admissions, Examinations, Placements, Workshops, Semenars. And Learning programming languages, Career Guidance and Motivation. And All Technical / Technology releated videos. We provide our content in Hindi / Marathi.</p> 
-<p align="Left">1. "Shivaji University" Kolhapur All Updates.      2.  Learn & Learning programming languages.</p>
-<p align="Left">3.  Technology Releated All Videos. And.   4.  Free Goverment Certificates Videos.</p>
-<p align="Left"> You can easily access our Educational Study Material from <a href="https://kedstechnology.blogspot.com" target="blank" /> </a> </p>
+<p>  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp    <b>"Keds Technology" Youtube channel is all about latest updates on "Shivaji university kolhapur" Circular, Announcements, Admissions, Examinations, Placements, Workshops, Semenars. And Learning programming languages, Career Guidance and Motivation. And All Technical / Technology releated videos. and We provide our content in Hindi and Marathi Language.</b> </p> 
+<h4 align="Left">1. "Shivaji University" Kolhapur All Updates.  &nbsp &nbsp 2.  Learn & Learning programming languages.</h4>
+<h4 align="Left">3.  Technology Releated All Videos. And. &nbsp &nbsp &nbsp &nbsp &nbsp  4.  Free Goverment Certificates Videos.</h4>
+<h4 align="Left"> You can easily access our Educational Study Material from https://kedstechnology.blogspot.com/ </h4><br><br>
+<b>-----------------------MY PROFILES LINKS--------------------<br>
+
+<br>1) facebook = https://www.facebook.com/kedar.dhumal.167/
+<br>2) insagram = https://www.instagram.com/kedardhumal7028/
+<br>3) Gmail = kedstechnology@gmail.com
+<br>4) contact no or whatsapp no =7083218832
+<br>5) Telegram group =https://t.me/Keds_Technology</b>
 
 
 
