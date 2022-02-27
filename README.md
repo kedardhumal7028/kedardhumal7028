@@ -1,4 +1,4 @@
-<h1 align="center">Hi I Am Kedar Shivaji Dhumal</h1>
+<h1 align="center">Hi I Am Kedar Dhumal</h1>
 <h2 align="center"> Programmer + Youtuber <a href="https://www.youtube.com/c/keds technology" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="keds technology" height="30" width="40" /></a></h2
 ><p align="left"> <img src="https://komarev.com/ghpvc/?username=kedardhumal7028&label=Profile%20views&color=0e75b6&style=flat" alt="kedardhumal7028" /> </p>
 
