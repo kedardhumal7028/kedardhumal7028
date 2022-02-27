@@ -27,7 +27,7 @@
 
 - 💬 Ask me about **C , CPP**
 
-- 📫 How to reach me **kedardhumal31@gmail.com**
+- 📫 How to reach me **kedstechnology@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
