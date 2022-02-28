@@ -19,7 +19,7 @@
 
 
 
-- 🔭 I’m currently working on **College Project On C# .Net**
+- 🔭 I’m currently working on **College Project On C#.Net**
 
 - 🌱 I’m currently learning **HTML , CSS , JS , Java**
 
