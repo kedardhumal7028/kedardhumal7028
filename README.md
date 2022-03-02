@@ -16,10 +16,6 @@
 <br>5) Telegram group = https://t.me/Keds_Technology</b><br><br>
 
 
-
-
-
-
 - 🔭 I’m currently working on **College Project On C#.Net**
 
 - 🌱 I’m currently learning **HTML, CSS, JS, Java**
