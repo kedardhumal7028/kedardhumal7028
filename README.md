@@ -15,11 +15,6 @@
 <br>4) contact no or whatsapp no =7083218832
 <br>5) Telegram group = https://t.me/Keds_Technology</b><br><br>
 
-<br>1) facebook = https://www.facebook.com/kedar.dhumal.167/
-<br>2) insagram = https://www.instagram.com/kedardhumal7028/
-<br>3) Gmail = kedstechnology@gmail.com
-<br>4) contact no or whatsapp no =7083218832
-<br>5) Telegram group = https://t.me/Keds_Technology</b><br><br>
 
 
 
