@@ -44,4 +44,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kedardhumal7028&show_icons=true&locale=en" alt="kedardhumal7028" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kedardhumal7028&" alt="kedardhumal7028" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kedardhumal7028&" alt="kedardhumal7028"/></p>
