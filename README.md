@@ -18,13 +18,13 @@
 
 
 
-- 🔭 I’m currently working on **Project On C#.Net**
+- 🔭 I’m currently working on **Project On Asp.Net MVC 5**
 
 - 🌱 I’m currently learning **Asp.Net MVC 5**
 
 - 📝 I regularly write articles on [https://kedstechnology.blogspot.com/](https://kedstechnology.blogspot.com/)
 
-- 💬 Ask me about **C , CPP**
+- 💬 Ask me about **C, CPP**
 
 - 📫 How to reach me **kedstechnology@gmail.com**
 
