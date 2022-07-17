@@ -4,7 +4,7 @@
 
 
 <p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp🙏Welcome to my Github Profile🙏<br> &nbsp &nbsp"Keds Technology" Youtube channel is all about latest updates on "Shivaji university kolhapur" Circular, Announcements, Admissions, Examinations, Placements, Workshops, Semenars. And Learning programming languages, Career Guidance and Motivation. And All Technical / Technology releated videos. and We provide our content in Hindi and Marathi Language.</b> </p> 
-<h4 align="Left">1. "Shivaji University" Kolhapur All Updates.  &nbsp &nbsp 2.  Learn & Learning </h4>
+<h4 align="Left">1. "Shivaji University" Kolhapur All Updates.  &nbsp &nbsp  </h4>
 
 <h4 align="Left"> You can easily access our Educational Study Material from https://kedstechnology.blogspot.com/ </h4><br><br>
 <b>-----------------------MY PROFILES LINKS--------------------<br>
