@@ -3,7 +3,7 @@
 ><p align="left"> <img src="https://komarev.com/ghpvc/?username=kedardhumal7028&label=Profile%20views&color=0e75b6&style=flat" alt="kedardhumal7028" /> </p>
 
 
-<p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp🙏Welcome to my Github Profile🙏<br> &nbsp &nbsp"Keds Technology" Youtube channel is all about latest updates on "Shivaji university kolhapur" Circular, Announcements, Admissions, Examinations, Placements, Workshops, Semenars. And Learning programming     </b> </p> 
+<p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp🙏Welcome to my Github Profile🙏<br> &nbsp &nbsp"Keds Technology" Youtube channel is all about latest updates on "Shivaji university kolhapur" Circular, Announcements, Admissions, Examinations, Placements, Workshops, Semenars. And Learning      </b> </p> 
  
 
 <h4 align="Left"> You can easily access our Educational Study Material from https://kedstechnology.blogspot.com/ </h4><br><br>
