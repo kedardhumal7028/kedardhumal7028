@@ -3,17 +3,18 @@
 ><p align="left"> <img src="https://komarev.com/ghpvc/?username=kedardhumal7028&label=Profile%20views&color=0e75b6&style=flat" alt="kedardhumal7028" /> </p>
 
 
-<p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp🙏Welcome to my Github Profile🙏<br> &nbsp &nbsp"Keds Technology" Youtube channel is all about latest updates on "Shivaji university kolhapur" Circular, Announcements, Admissions.   </b> </p> 
+<p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp🙏Welcome to my Github Profile🙏<br> &nbsp &nbsp"hiii, I am Kedar.  </b> </p> 
  
 
 <h4 align="Left"> You can easily access our Educational Study Material from https://kedstechnology.blogspot.com/ </h4><br><br>
 <b>-----------------------MY PROFILES LINKS--------------------<br>
 
-<br>1) facebook = https://www.facebook.com/kedar.dhumal.167/
-<br>2) insagram = https://www.instagram.com/kedardhumal7028/
-<br>3) Gmail = kedstechnology@gmail.com
-<br>4) contact no or whatsapp no =7083218832
-<br>5) Telegram group = https://t.me/Keds_Technology</b><br> <br>
+<br>1) Linkedin = https://www.linkedin.com/in/kedardhumal/
+<br>2) facebook = https://www.facebook.com/kedar.dhumal.167/
+<br>3) insagram = https://www.instagram.com/kedardhumal7028/
+<br>4) Gmail = kedstechnology@gmail.com
+<br>5) contact no or whatsapp no = 9511273939
+<br>6) Telegram group = https://t.me/Keds_Technology</b><br> <br>
 
 
 
