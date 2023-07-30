@@ -6,7 +6,7 @@
 <p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp🙏Welcome to my Github Profile🙏<br> &nbsp &nbsp"hiii, I am Kedar.  </b> </p> 
  
 
-<h4 align="Left"> You can easily access our Educational Study Material from https://kedstechnology.blogspot.com/ </h4><br><br>
+<h4 align="Left">  </h4><br><br>
 <b>-----------------------MY PROFILES LINKS--------------------<br>
 
 <br>1) Linkedin = https://www.linkedin.com/in/kedardhumal/
