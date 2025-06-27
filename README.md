@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kedar Shivaji Dhumal</h1>
-<h3 align="center">A Passionate .NET Developer & Youtuber from India 🇮🇳</h3>
+<h3 align="center">A Passionate .NET Developer & Youtuber from India </h3>
 
 <p align="center">
   <a href="https://github.com/kedardhumal7028">
@@ -8,8 +8,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=14F700&center=true&width=900&lines=Welcome+to+My+GitHub+Profile;I'm+a+.NET+Developer+%26+Youtuber;Love+Coding+%7C+Learning+%7C+Sharing;Let's+Build+Something+Great!"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=ffff00&center=true&width=900&lines=Welcome+to+My+GitHub+Profile;I'm+a+.NET+Developer+%26+Youtuber;Love+Coding+%7C+Learning+%7C+Sharing;Let's+Build+Something+Great!"/>
 </p>
+
 
 ---
 
