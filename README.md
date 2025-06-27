@@ -61,9 +61,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kedardhumal7028&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kedardhumal7028&theme=radical" alt="GitHub Streak" />
-</p>
+</p> -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kedardhumal7028&layout=compact&theme=radical" alt="Top Languages" />
 </p>
