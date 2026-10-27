@@ -95,7 +95,16 @@
 
 ---
 
-## 🚀 Freelance Business — Keds Technology
+<table>
+  <tr>
+    <td align="center" valign="middle">
+      <img src="./keds%20(1).png" width="320" alt="Keds Technology Logo" />
+    </td>
+    <td align="left" valign="middle">
+      <h2>🚀 Freelance Business — Keds Technology</h2>
+    </td>
+  </tr>
+</table>
 
 **Turning business ideas into digital solutions.**
 
